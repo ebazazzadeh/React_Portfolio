@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.edd54148.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.489b6d64.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.489b6d64.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.33d447ae.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.33d447ae.js.map",
+    "static/css/2.383c0125.chunk.css": "/React-Portfolio/static/css/2.383c0125.chunk.css",
+    "static/js/2.5484cacd.chunk.js": "/React-Portfolio/static/js/2.5484cacd.chunk.js",
+    "static/js/2.5484cacd.chunk.js.map": "/React-Portfolio/static/js/2.5484cacd.chunk.js.map",
+    "static/js/3.70221c66.chunk.js": "/React-Portfolio/static/js/3.70221c66.chunk.js",
+    "static/js/3.70221c66.chunk.js.map": "/React-Portfolio/static/js/3.70221c66.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/React-Portfolio/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.edd54148.chunk.css.map": "/React-Portfolio/static/css/main.edd54148.chunk.css.map",
+    "static/js/2.5484cacd.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.5484cacd.chunk.js.LICENSE.txt",
+    "static/media/2.9a6a405f.png": "/React-Portfolio/static/media/2.9a6a405f.png",
+    "static/media/Code-Quiz2.bac8b700.png": "/React-Portfolio/static/media/Code-Quiz2.bac8b700.png",
+    "static/media/Elham Bazazzadeh.e171c2f0.pdf": "/React-Portfolio/static/media/Elham Bazazzadeh.e171c2f0.pdf",
+    "static/media/Passwoed-Generator.c258aefe.png": "/React-Portfolio/static/media/Passwoed-Generator.c258aefe.png",
+    "static/media/Sign-Events3.d227b725.png": "/React-Portfolio/static/media/Sign-Events3.d227b725.png",
+    "static/media/Weight-Tracker1.a25b9813.png": "/React-Portfolio/static/media/Weight-Tracker1.a25b9813.png",
+    "static/media/Work-Day-Scheduler.6ab83a36.png": "/React-Portfolio/static/media/Work-Day-Scheduler.6ab83a36.png",
+    "static/media/code-icon.5b51d03e.png": "/React-Portfolio/static/media/code-icon.5b51d03e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33d447ae.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.5484cacd.chunk.js",
+    "static/css/main.edd54148.chunk.css",
+    "static/js/main.489b6d64.chunk.js"
+  ]
+}
