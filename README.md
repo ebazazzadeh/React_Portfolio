@@ -21,13 +21,13 @@ The user should clone the repository from GitHub and install dependencies. To ru
 This application will allow users view an about me page, send information through a contact form, view my projects, and view my resume.<br>
 Please view deployed application on [Git Hub Pages](https://ebazazzadeh.github.io/react-portfolio/)<br/>
 
-![Elham Bazazzadeh](src/demo/page1.png)
-![Elham Bazazzadeh](src/demo/page2.png)
-![Elham Bazazzadeh](src/demo/page3.png)
+![Elham Bazazzadeh](./src/demo/page1.png)
+![Elham Bazazzadeh](./src/demo/page2.png)
+![Elham Bazazzadeh](./src/demo/page3.png)
 <br/>
 <br/>
 
-![Elham Bazazzadeh](src/demo/React-Portfolio.gif)
+![Elham Bazazzadeh](./src/demo/React-Portfolio.gif)
 
 ## User Story
 
